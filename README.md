@@ -8,3 +8,5 @@ web-ext run
 ```
 
 The bug-demo.mp4 demonstrates the bug in practice. You can see that the controls don't display about half the time. Also, you can see that even when the controls don't display the "Hide Controls" option is available and the video can be played as if the video did have controls on.
+
+Also worth noting is if you open popup.html as a regular web page within firefox, this bug never occurs.
